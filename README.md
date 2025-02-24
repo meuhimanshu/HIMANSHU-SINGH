@@ -1,4 +1,3 @@
-# HIMANSHU-SINGH
 
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <h3 align="center">Programmer | Cloud Enthusiast | Aspiring Drupal Developer</h3>
