@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
 <h3 align="center">Programmer | Cloud Enthusiast | Aspiring Drupal Developer</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meuhimanshu&label=Profile%20views&color=0e75b6&style=flat" alt="meuhimanshu" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on Drupal Development Projects<br><br>🌱 I’m currently learning AWS and Drupal<br><br>🤝 I’m looking for help with networking opportunities in the tech industry<br><br>👨‍💻 All of my projects are available at https://huesofhimanshu.com/<br><br>💬 Ask me about Designing and Video Editor<br><br>📫 How to reach me himanshumaps@gmail.com<br><br>📄 Know about my experiences https://huesofhimanshu.com/himanshu_resume.pdf<br><br>⚡ Fun fact I think I am funny, but my humor is as dark as my coffee!
 
